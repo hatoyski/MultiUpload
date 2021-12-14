@@ -26,7 +26,7 @@ _🎯 Follow me and star this repo for more telegram bots. @AnjanaMadu_
  - BOT_TOKEN: Go to [@BotFather](https://telegram.me/botfather) and Create new bot. Insert that bot's bot token.
  - LOG_CHANNEL: A channel ID to log all user activities.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarpTechOrg/multiupload)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hatoyski/MultiUpload)
 
 ## 🚩 Credits
 - [Lucifeermorningstar](https://github.com/lucifeermorningstar) for Telethon Bot Base. (A Daisy Owner)
